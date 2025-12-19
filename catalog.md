@@ -47,9 +47,8 @@
 
 Используйте OMDb API (The Open Movie Database):
 Бесплатный ключ: можно получить на omdbapi.com (1000 запросов в день)
-Поиск фильма: http://www.omdbapi.com/?s=avatar&apikey=ваш_ключ
-Детали фильма: http://www.omdbapi.com/?i=tt0499549&apikey=ваш_ключ
-
+Поиск фильма: http://www.omdbapi.com/?s=avatar&apikey=aab786b8
+Детали фильма: http://www.omdbapi.com/?i=tt0499549&apikey=aab786b8
 Состояния интерфейса:
 Загрузка: показывает спиннер при поиске
 Пустой результат: "Фильмы не найдены, попробуйте изменить запрос"

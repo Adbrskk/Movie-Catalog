@@ -1,0 +1,11 @@
+@import "variables";
+@import "mixins";
+
+body {
+  background: $bg;
+  color: $text;
+}
+
+.card {
+  @include card;
+}
